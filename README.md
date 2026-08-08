@@ -19,8 +19,8 @@ A Flutter-based mobile application designed to provide safety features and emerg
 ## Project Structure
 
 AI-Powered-Women-s-Safety-App/
-├── lib/
-├── android/
-├── ios/
-├── web/
-└── README.md
+lib/
+android/
+ios/
+web/
+README.md
